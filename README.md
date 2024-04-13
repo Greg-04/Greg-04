@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate student developer from Maryland</h3>
+
 
 - 🔭 I’m currently working on [AnyBudgetCan](https://boiling-anchorage-06094-78150a0cfc8a.herokuapp.com/#/home)
 

@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **regs0404@gmail.com**
 
-- ⚡ Fun fact **I love coffee and my two dogs!**
+- ⚡ Fun fact **I love coffee and my pets!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
+<h1 align="center">Hello 👋, I'm Gabriel</h1>
 
 
 - 🔭 I’m currently working on [AnyBudgetCan](https://boiling-anchorage-06094-78150a0cfc8a.herokuapp.com/#/home)
